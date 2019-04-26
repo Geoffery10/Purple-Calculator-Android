@@ -1,7 +1,5 @@
-==================================
          Purple Calculator
          by Geoffery Powell
-==================================
 
 This program is a simple single 
 operator calculator. It is capable 
