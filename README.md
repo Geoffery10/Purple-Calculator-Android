@@ -4,7 +4,7 @@
 This program is a simple single 
 operator calculator. It is capable 
 of most simple math. It's operators 
-include: 
+include:    
 	- Plus: "+"   
 	- Minus: "-"    
 	- Multiplication: "X"   
