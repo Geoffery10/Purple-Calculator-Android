@@ -6,12 +6,12 @@ operator calculator. It is capable
 of most simple math. It's operators 
 include:   
 ```
-*Plus: "+"   
-*Minus: "-"    
-*Multiplication: "X"   
-*Division: "/"   
-*Percent of: "%"   
-*Equals: "="   
+* Plus: "+"   
+* Minus: "-"    
+* Multiplication: "X"   
+* Division: "/"   
+* Percent of: "%"   
+* Equals: "="   
 ```	
 Additionally the calculator can UNDO
 and clear "C" values. UNDO removes the 
