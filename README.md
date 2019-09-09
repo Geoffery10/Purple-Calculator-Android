@@ -1,17 +1,18 @@
-         Purple Calculator
-         by Geoffery Powell
+# Purple Calculator
+## by Geoffery Powell
 
 This program is a simple single 
 operator calculator. It is capable 
 of most simple math. It's operators 
-include:    
-	- Plus: "+"   
-	- Minus: "-"    
-	- Multiplication: "X"   
-	- Division: "/"   
-	- Percent of: "%"   
-	- Equals: "="   
-	
+include:   
+```
+* Plus: "+"   
+* Minus: "-"    
+* Multiplication: "X"   
+* Division: "/"   
+* Percent of: "%"   
+* Equals: "="   
+```	
 Additionally the calculator can UNDO
 and clear "C" values. UNDO removes the 
 last recorded value. This can be done 
